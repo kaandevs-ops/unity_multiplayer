@@ -1,0 +1,52 @@
+# Unity otomatik üretilenler
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Ll]ogs/
+[Uu]serSettings/
+[Mm]emoryCaptures/
+
+# Build çıktıları
+[Bb]uild/
+[Bb]uilds/
+Build.app/
+Build_Windows/
+*_BurstDebugInformation_DoNotShip/
+
+# IDE
+.vs/
+.vscode/
+.idea/
+*.csproj
+*.sln
+*.slnx
+*.suo
+*.user
+
+# Mac çöp dosyaları
+.DS_Store
+._*
+
+# Diğer
+sysinfo.txt
+*.apk
+*.aab
+*.unitypackage
+
+# Ucuncu taraf assetler (repoya girmesin, README'de listeli)
+/Assets/Infima Games/
+/Assets/Infima Games.meta
+/Assets/Photon/
+/Assets/Photon.meta
+/Assets/Low Poly Pack - Environment Lite/
+/Assets/Low Poly Pack - Environment Lite.meta
+/Assets/LowPolyBarriersPackFree/
+/Assets/LowPolyBarriersPackFree.meta
+/Assets/Assets/AIRIDev/
+/Assets/Assets/AIRIDev.meta
+/Assets/AngeloMaN87/Prototype Map/
+/Assets/AngeloMaN87/Prototype Map.meta
+/Assets/Resources/P_LPSP_FP_CH.prefab
+/Assets/Resources/P_LPSP_FP_CH.prefab.meta
+
+/Assets/Assets.meta
