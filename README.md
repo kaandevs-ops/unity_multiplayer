@@ -48,7 +48,7 @@
 
 ## 🚀 Features
 
-- 🏠 **Lobby and rooms**: enter a player name, create a room or join one, random join, player count and game mode selection (e.g. FFA)
+- 🏠 **Lobby and rooms**: enter a player name, create a room or join one, random join, room size (2 to 10 players) and game mode (FFA or Team Deathmatch)
 - 🔴🔵 **Team select**: pick Red or Blue team, live player count per team, host starts the match
 - 💰 **Round economy**: buy phase before each round, money shown on the HUD
 - 🛒 **Shop menu**: rifle, pistol, half shield ($400) and full shield ($700)
@@ -62,8 +62,8 @@
 
 1. **Lobby**: enter your name and a room name, then create or join a room (or use random join).
 2. **Team select**: choose Red or Blue. The host presses **Başlat** when ready.
-3. **Buy phase**: a short countdown where you spend money in the shop.
-4. **Round**: one team attacks and the other defends the A/B bomb sites.
+3. **Buy phase**: a 30-second countdown (default) where you spend money in the shop.
+4. **Round**: one team attacks and the other defends the A/B bomb sites. The fight phase lasts 120 seconds by default, followed by a 5-second round end.
 5. **Result**: kills, deaths and money update, and the winner is announced.
 
 ## 🏗️ Tech Stack
@@ -139,7 +139,7 @@ Third-party packages are **not** included because of their licenses. Download th
 
 - The project does **not compile** until Photon and the Infima package are imported.
 - Scenes show missing references until the packages are imported.
-- Build Settings lists the Prototype Map scene, which comes from the Prototype Map package.
+- Build Settings lists the Prototype Map scene, which comes from the Prototype Map package. When the host presses **Başlat**, the game loads the scene named `Prototype Map`, so that scene must stay in Build Settings under that exact name.
 
 ## 📄 License
 
