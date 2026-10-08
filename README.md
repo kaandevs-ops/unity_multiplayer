@@ -48,11 +48,11 @@
 
 ## 🚀 Features
 
-- 🏠 **Lobby and rooms**: enter a player name, create a room or join one, random join, room size (2 to 10 players) and game mode (FFA or Team Deathmatch)
+- 🏠 **Lobby and rooms**: enter a player name, create a room or join one, random join and room size (2 to 10 players). The lobby lists FFA and Team Deathmatch, but they are placeholders: the bomb attack/defense mode is the only implemented game mode
 - 🔴🔵 **Team select**: pick Red or Blue team, live player count per team, host starts the match
 - 💰 **Round economy**: buy phase before each round, money shown on the HUD
 - 🛒 **Shop menu**: rifle, pistol, half shield ($400) and full shield ($700)
-- 💣 **Attack / defense rounds** with **A and B bomb sites**
+- 💣 **Attack / defense rounds** with **A and B bomb sites**: attackers plant the bomb, defenders defuse it
 - 🗺️ **Minimap** with site markers and player icons
 - 📟 **HUD**: health bar, ammo counter, weapon icon, K/D, money, round timer and phase label
 - ☠️ **Kill feed** and **win banner**
@@ -63,7 +63,7 @@
 1. **Lobby**: enter your name and a room name, then create or join a room (or use random join).
 2. **Team select**: choose Red or Blue. The host presses **Başlat** when ready.
 3. **Buy phase**: a 30-second countdown (default) where you spend money in the shop.
-4. **Round**: one team attacks and the other defends the A/B bomb sites. The fight phase lasts 120 seconds by default, followed by a 5-second round end.
+4. **Round**: attackers plant the bomb at site A or B and defenders defuse it. If no bomb is planted, the fight phase lasts 120 seconds by default. A 5-second round end follows.
 5. **Result**: kills, deaths and money update, and the winner is announced.
 
 ## 🏗️ Tech Stack
