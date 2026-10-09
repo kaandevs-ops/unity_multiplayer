@@ -120,12 +120,12 @@ Third-party packages are **not** included because of their licenses. Download th
 
 | Package | Source |
 | --- | --- |
-| Photon PUN 2 | Unity Asset Store |
-| Low Poly Shooter Pack - Free Sample (Infima Games) | Unity Asset Store |
-| Prototype Map | Unity Asset Store |
-| Low Poly Pack - Environment Lite | Unity Asset Store |
-| LowPolyBarriersPackFree | Unity Asset Store |
-| AIRIDev package | Unity Asset Store |
+| Photon PUN 2 (PUN 2 - FREE) | Unity Asset Store (Photon Engine) |
+| Low Poly Shooter Pack - Free Sample | Unity Asset Store (Infima Games) |
+| Prototype Map | Unity Asset Store (AngeloMaN87) |
+| Low Poly Pack - Environment Lite | Unity Asset Store (Solum Night) |
+| Low Poly Barriers Pack Free | Unity Asset Store (Schatro Dev Assets) |
+| Low-Poly Urban Assets | Unity Asset Store (AIRIDEV) |
 
 ## ⚙️ Setup
 
