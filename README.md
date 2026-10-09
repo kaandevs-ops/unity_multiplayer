@@ -60,12 +60,13 @@
 
 ## 📥 Download
 
-Derlenmiş Windows sürümü: **[Latest release](https://github.com/kaandevs-ops/unity_multiplayer/releases/latest)**
+Want to just play? Grab the latest Windows build from the **[Releases page](https://github.com/kaandevs-ops/unity_multiplayer/releases/latest)**.
 
-1. Release sayfasından `.zip` dosyasını indir ve bir klasöre çıkar.
-2. `.exe` dosyasını çalıştır.
+1. Download the `.zip` file from the latest release.
+2. Extract it to any folder.
+3. Run the `.exe` file.
 
-> Kaynak koddan çalıştırmak istiyorsan [Setup](#️-setup) bölümüne bak.
+> Online matches need every player on the same version. To run the project from source instead, see [Setup](#%EF%B8%8F-setup).
 
 ## 🕹️ Game Flow
 
