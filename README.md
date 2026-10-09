@@ -1,4 +1,4 @@
-<p align="center">
+﻿<p align="center">
   <img src="docs/banner.png" alt="kaandevs-ops banner" width="100%">
 </p>
 
@@ -57,6 +57,15 @@
 - 📟 **HUD**: health bar, ammo counter, weapon icon, K/D, money, round timer and phase label
 - ☠️ **Kill feed** and **win banner**
 - 🎯 **Practice range** (`Alıştırma`) with targets and enemies, separate from online matches
+
+## 📥 Download
+
+Derlenmiş Windows sürümü: **[Latest release](https://github.com/kaandevs-ops/unity_multiplayer/releases/latest)**
+
+1. Release sayfasından `.zip` dosyasını indir ve bir klasöre çıkar.
+2. `.exe` dosyasını çalıştır.
+
+> Kaynak koddan çalıştırmak istiyorsan [Setup](#️-setup) bölümüne bak.
 
 ## 🕹️ Game Flow
 
